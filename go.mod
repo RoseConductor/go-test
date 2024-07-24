@@ -1,4 +1,4 @@
-module github.com/nicejin74/go_greatjin
+module github.com/RoseConductor/go-test
 
 go 1.22.5
 
