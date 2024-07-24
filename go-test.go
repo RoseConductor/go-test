@@ -1,4 +1,4 @@
-package go_greatjin
+package go-test
 
 // Add function to add two integers
 func Add(a, b int) int {
